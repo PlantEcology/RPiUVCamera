@@ -10,7 +10,7 @@ Landzo 3.5" Touchscreen<br/>
 8 gb Flash Card<br/>
 
 ## Python Script
-A simple python script on the RPi desktop that is executable which sets the resolution, rotation, and names the image based on the current date and time.
+The python script is on the RPi desktop that is executable which sets the resolution, rotation, and names the image based on the current date and time.
 
 ## Case
 I printed a modified version of https://www.thingiverse.com/thing:3735600 to hold the filter. My current version is in need of some major refinement. 
