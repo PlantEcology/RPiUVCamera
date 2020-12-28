@@ -3,11 +3,11 @@ This a simple UV camera project using a Raspberry Pi and the NOIR camera module 
 
 ## My Setup
 Raspberry Pi 4B<br/>
-Raspbian Desktop
-NOIR Camera Module
-Rosco UV Pass Glass Filter
-Landzo 3.5" Touchscreen
-8 gb Flash Card
+Raspbian Desktop<br/>
+NOIR Camera Module<br/>
+Rosco UV Pass Glass Filter<br/>
+Landzo 3.5" Touchscreen<br/>
+8 gb Flash Card<br/>
 
 ## Python Script
 A simple python script on the RPi desktop that is executable which sets the resolution, rotation, and names the image based on the current date and time.
