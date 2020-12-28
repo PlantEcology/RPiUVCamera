@@ -6,7 +6,7 @@ from datetime import datetime
 
 camera = PiCamera()
 today = datetime.now()
-imgTime = today("%Y%m%d-%H%M%S")
+imgTime = today.strftime("%Y%m%d-%H%M%S")
 
 #camera.start_preview()
 #sleep(5)
