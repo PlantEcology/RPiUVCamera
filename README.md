@@ -15,4 +15,4 @@ Originally, I used the python script, but switched to a simple Bash script on th
 This is a modified version of https://www.thingiverse.com/thing:3735600 to hold the filter. My current version is in need of some major refinement. 
 
 ## License
-RPiUVCamera follows the MIT License. However, the case STL files are licensed under [CC-BY-NC-SA-4.0](https://github.com/PlantEcology/RPiUVCamera/edit/main/CC-BY-NC-SA-4.0), thus are restricted for commercial use.
+RPiUVCamera follows the [MIT License](https://github.com/PlantEcology/RPiUVCamera/edit/main/LICENSE). However, the case STL files are licensed under [CC-BY-NC-SA-4.0](https://github.com/PlantEcology/RPiUVCamera/edit/main/CC-BY-NC-SA-4.0), thus are restricted for commercial use.
