@@ -1,5 +1,5 @@
 # RPiUVCamera
-This a simple UV camera project using a Raspberry Pi and the NoIR camera module v2. I used the NoIR module so there is no additional filter added to the camera (normal camera module will have an infrared filter). Originally, I used a 3.5" touch screen, but this was cumbersome. Instead, I use an old tablet running VNC client and connect to the Raspberry Pi via wifi hotspot. An [inexpensive UV pass filter (passing 360-420 nm)](https://www.bhphotovideo.com/c/product/1010867-REG/rosco_120336607508_2x2_permacolor_glass_filter.html) removes IR and most of the visible light spectrum . 
+This a simple UV camera project using a Raspberry Pi and the NoIR camera module v2. I used the NoIR module so there is no additional filter added to the camera (normal camera module will have an infrared filter). Originally, I used a 3.5" touch screen, but this was cumbersome. Instead, I use an old tablet running VNC client and connect to the Raspberry Pi via wifi hotspot. An [inexpensive UV pass filter (passing 360-420 nm)](https://www.bhphotovideo.com/c/product/1010867-REG/rosco_120336607508_2x2_permacolor_glass_filter.html) removes IR and most of the visible light spectrum. 
 
 ## Parts List
 Raspberry Pi 4B<br/>
