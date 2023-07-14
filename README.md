@@ -11,5 +11,5 @@ Rosco UV Pass Glass Filter<br/>
 ## Bash Script
 Originally, I used the python script, but switched to a simple Bash script on the RPi desktop that is executable which sets white balance to sun and names the image based on the current date and time ("img_YearMonthDay_HourMinuteSec.jpg"). Be sure you enable the camera module using rasp-config (command) or Raspberry Pi Configuration (menu).
 
-## Case
-I printed a modified version of https://www.thingiverse.com/thing:3735600 to hold the filter. My current version is in need of some major refinement. 
+## Case STL Files
+This is a modified version of https://www.thingiverse.com/thing:3735600 to hold the filter. My current version is in need of some major refinement. 
